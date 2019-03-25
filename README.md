@@ -21,9 +21,9 @@ link: https://www.youtube.com/watch?v=bLmauUfYk4I&feature=youtu.be
 
 The robustness of this software depends on brightness and other all noises in the surrounding. 
 
-player1.py is the normal mode
+player1.py is for the normal mode
 
-run python player1.py  (for player1.py replace the haar1 with haar2 from CMakeLists file in installation)
+run python player1.py  (for player1.py replace the haar1 with haar2 from CMakeLists file in installation and then start installation from step 1)
 run python player2.py (to get the debug mode , the screen where you can see the objects are detected properly )
 
 Gesture controls are : 
