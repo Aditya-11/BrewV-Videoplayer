@@ -1,12 +1,5 @@
 # BrewV-Videoplayer
 
-   ____                    __    __
-   / __ )___________  _  __|  |  / /
-  / __  / ___/ _ \ | /| / /|  | / / 
- / /_/ / /  /  __/ |/ |/ / |  |/ /  
-/_____/_/   \___/|__/|__/  |____/  version 10^-9*1 written By Aditya Dubey
-
-
 BrewV is a computer vision based video player which uses face and hand gestures to control the functionality of a videoplayer.
 The PyQt5 library is used for the design the Gui and libvlc bindings for python is used for processing the video.
 The implementation of computer vision which gives input to player is done in c++ using the concept of Haar cascade to detect the facial and hand gestures, the opencv library is used for doing this. This is just a experimental project and it isnt made with the intention to make a better video player rather just upgrade the software to 3.0 version.
