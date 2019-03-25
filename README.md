@@ -24,14 +24,15 @@ The robustness of this software depends on brightness and other all noises in th
 player1.py is the normal mode
 
 run python player1.py  (for player1.py replace the haar1 with haar2 from CMakeLists file in installation)
-run python player2.py (to get the debug mode , the screen where you see the objects are detected properly )
+run python player2.py (to get the debug mode , the screen where you can see the objects are detected properly )
 
-Gesture controls are : 1. seek forward : show palm and face 
-2. seek backward: show fist and face 
-3. volume up : put head down and show palm
-4. volume down : put head down and show fist
-5. pause: cover the camera with hand or bend the lid of laptop upto some angle.
-6. play: undo the step 5 or look at the camera.
+Gesture controls are : 
+* 1 seek forward : show palm and face 
+* 2 seek backward: show fist and face 
+* 3 volume up : put head down and show palm
+* 4 volume down : put head down and show fist
+* 5 pause: cover the camera with hand or bend the lid of laptop upto some angle.
+* 6 play: undo the step 5 or look at the camera.
 
 # ToDo 
 1. Resolve the issue with buffers when seeking forward and backward.
