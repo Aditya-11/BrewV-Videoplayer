@@ -12,10 +12,10 @@ link: https://www.youtube.com/watch?v=bLmauUfYk4I&feature=youtu.be
 * The software uses libvlc python bindings so vlc player should be installed in your system
 * cmake should be installed 
 * go to the directory where you downloaded the player (you can edit the CMakeLists file by putting haar1 or haar2)
-* 1 cmake ..
-* 2 make  (the executables would be created)
-* 3 install libraries platform and PyQt5 by using pip3 etc
-* 4 python player1.py
+* step 1 cmake ..
+* step 2 make  (the executables would be created)
+* step 3 install libraries platform and PyQt5 by using pip3 etc
+* step 4 python player1.py
 
 # Usage 
 
