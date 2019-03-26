@@ -14,7 +14,7 @@ link: https://www.youtube.com/watch?v=bLmauUfYk4I&feature=youtu.be
 * Make sure Opencv 4.0 is installed
 * The software uses libvlc python bindings so vlc player should be installed in your system
 * cmake should be installed 
-* go to the directory where you downloaded the player (you can edit the CMakeLists file by putting haar1 or haar2)
+* go to the directory where you downloaded the player (you can edit the CMakeLists file by putting haar1 or haar2 based )
 * step 1 cmake ..
 * step 2 make  (the executables would be created)
 * step 3 install libraries platform and PyQt5 by using pip3 etc
@@ -22,12 +22,12 @@ link: https://www.youtube.com/watch?v=bLmauUfYk4I&feature=youtu.be
 
 # Usage 
 
-The robustness of this software depends on brightness and other all noises in the surrounding. 
+The robustness of this software depends on brightness and other all noises in the surrounding. It has been tested on many and works well every time.
 
 player1.py is for the normal mode
 
-run python player1.py  (for player1.py replace the haar1 with haar2 from CMakeLists file in installation and then start installation from step 1)
-run python player2.py (to get the debug mode , the screen where you can see the objects are detected properly )
+run python player1.py  (for running player1.py replace the haar1 with haar2 from CMakeLists file in installation and then start installation from step 1)
+run python player2.py (to get the debug mode where you can see whether the objects are detected properly or not , here keep the CMakeLists file unchanged)
 
 Gesture controls are : 
 * 1 seek forward : show palm and face 
