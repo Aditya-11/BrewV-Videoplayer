@@ -44,4 +44,4 @@ Gesture controls are :
 2. Improving the Computer Vision part for making the cpu uasge less.
 3. The signal to volume slider at the time of gesture 3 and 4. 
 4. Creating the setup file.
-5. Include more and better gestures to improve the user experience.
+5. Include some better gestures to improve the user experience.
