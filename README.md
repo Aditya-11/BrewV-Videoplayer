@@ -37,7 +37,7 @@ Gesture controls are :
 * 5 pause: cover the camera with hand or bend the screen of laptop upto some angle.
 * 6 play: undo the step 5 or look at the camera.
 
-*7 After doing step 3 and 4 , you have to first put your hands down and then put the head up ,if both are done simultaneously then there are chances that due to some error the video may seek litle bit , this error will be rectified by next version.
+* 7 After doing step 3 and 4 , you have to first put your hands down and then put the head up ,if both are done simultaneously then there are chances that due to some error the video may seek litle bit , this error will be rectified by next version.
 
 # ToDo 
 1. Resolve the issue with buffers when seeking forward and backward.
