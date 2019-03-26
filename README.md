@@ -34,7 +34,7 @@ Gesture controls are :
 * 2 seek backward: show fist and face 
 * 3 volume up : put head down and show palm
 * 4 volume down : put head down and show fist
-* 5 pause: cover the camera with hand or bend the lid of laptop upto some angle.
+* 5 pause: cover the camera with hand or bend the screen of laptop upto some angle.
 * 6 play: undo the step 5 or look at the camera.
 
 # ToDo 
