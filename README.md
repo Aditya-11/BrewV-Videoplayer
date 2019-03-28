@@ -17,10 +17,14 @@ link: https://www.youtube.com/watch?v=bLmauUfYk4I&feature=youtu.be
 * The software uses libvlc python bindings of libvlc so vlc player should be installed in your system
 * cmake should be installed 
 * go to the directory where you downloaded the player (you can edit the CMakeLists file by putting haar1 or haar2 based )
-* step 1 '''cmake ..'''
-* step 2 '''make'''  (the executables would be created)
-* step 3 install libraries platform and PyQt5 by using pip3 etc
-* step 4 '''python player1.py'''
+* install libraries platform and PyQt5 by using pip3 etc
+
+To run the player -->
+'''
+cmake ..
+make
+python player1.py
+'''
 
 # Usage 
 
@@ -28,8 +32,8 @@ The robustness of this software depends on brightness and other all noises in th
 
 player1.py is for the normal mode
 
-*run python player1.py  (for running player1.py replace the haar1 with haar2 from CMakeLists file in installation and then start installation from step 1)
-*run python player2.py (to get the debug mode where you can see whether the objects are detected properly or not , here keep the CMakeLists file unchanged)
+* run python player1.py  (for running player1.py replace the haar1 with haar2 from CMakeLists file in installation and then start installation from step 1)
+* run python player2.py (to get the debug mode where you can see whether the objects are detected properly or not , here keep the CMakeLists file unchanged)
 
 Gesture controls are : 
 * 1 seek forward : show palm and face 
