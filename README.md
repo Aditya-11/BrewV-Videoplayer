@@ -19,12 +19,12 @@ link: https://www.youtube.com/watch?v=bLmauUfYk4I&feature=youtu.be
 * go to the directory where you downloaded the player (you can edit the CMakeLists file by putting haar1 or haar2 based )
 * install libraries platform and PyQt5 by using pip3 etc
 
-To run the player -->
-'''
-cmake ..
-make
-python player1.py
-'''
+To run the player --> we have to create the execcutable first
+
+* cmake ..
+* make
+* python player1.py
+
 
 # Usage 
 
