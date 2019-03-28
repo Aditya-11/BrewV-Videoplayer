@@ -23,7 +23,7 @@ To run the player --> we have to create the execcutable first
 
 * cmake ..
 * make
-* python player1.py
+* python3 player2.py
 
 
 # Usage 
