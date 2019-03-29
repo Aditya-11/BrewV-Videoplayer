@@ -28,7 +28,7 @@ To run the player --> we have to create the execcutable first
 
 # Usage 
 
-The robustness of this software depends on brightness and other all noises in the surrounding. It has been tested on many and works well every time.
+The robustness of this software depends on brightness and other all noises in the surrounding. It has been tested on many cases and works well most of the time.
 
 player1.py is for the normal mode
 
