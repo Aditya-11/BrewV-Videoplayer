@@ -1,8 +1,8 @@
 # BrewV-Videoplayer
-<centre>
+<p align="center">
 <a href="https://github.com/Aditya-11/BrewV-Videoplayer/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Apache2.0-yellow.svg" alt="License" /></a>
 <a href="https://github.com/Aditya-11/BrewV-Videoplayer/releases/latest"><img src="https://img.shields.io/badge/release-1e--9-Blue.svg" alt="Latest release" /></a>
-</centre>
+</p>
 
 ![alt text](https://i.imgur.com/07nvIKx.png)
 
