@@ -53,8 +53,8 @@ Gesture controls are :
 * 7 After doing step 3 and 4 , you have to first put your hands down and then put the head up ,if both are done simultaneously then there are chances that due to some error the video may seek litle bit , this error will be rectified by next version.
 
 # ToDo 
--[ ] Resolve the issue with buffers when seeking forward and backward.
--[ ] Improving the Computer Vision part for making the cpu uasge less.
--[*] The signal to volume slider at the time of gesture 3 and 4. 
--[ ] Creating the setup file.
--[ ] Include some better gestures to improve the user experience.
+- [ ] Resolve the issue with buffers when seeking forward and backward.
+- [ ] Improving the Computer Vision part for making the cpu uasge less.
+- [*] The signal to volume slider at the time of gesture 3 and 4. 
+- [ ] Creating the setup file.
+- [ ] Include some better gestures to improve the user experience.
