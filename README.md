@@ -12,6 +12,11 @@ While choosing the gestures, the trade off was between the amount of energy the 
 # Usage demonstration 
 link: https://www.youtube.com/watch?v=bLmauUfYk4I&feature=youtu.be
 
+<a href="https://www.youtube.com/watch?v=bLmauUfYk4I&feature=youtu.be" target="_blank">
+ <img src="http://img.youtube.com/vi/bLmauUfYk4I/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
 # Installation process
 * Make sure Opencv 4.0 is installed
 * The software uses libvlc python bindings of libvlc so vlc player should be installed in your system
@@ -25,7 +30,7 @@ To run the player --> we have to create the execcutable first
 * or incase cmake unable to find Opencv 4.0 path then
 * <b>cmake . -DOpenCV_DIR=<path_to_OpenCV></b>
 * <b>make</b>
-  * <b>python3 player2.py</b>
+* <b>python3 player2.py</b>
 
 
 # Usage 
