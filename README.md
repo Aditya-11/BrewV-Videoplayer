@@ -1,5 +1,8 @@
 # BrewV-Videoplayer
 
+<a href="https://github.com/Aditya-11/BrewV-Videoplayer/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Apache-2.0-yellow.svg" alt="License" /></a>
+
+
 ![alt text](https://i.imgur.com/07nvIKx.png)
 
 BrewV is a computer vision based video player which uses face and hand gestures to control the functionality of a videoplayer like forward seeking , volume control etc.
