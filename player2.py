@@ -330,8 +330,9 @@ def haar1Loop(player, lis11, x,stop):
                     if (vol==100 or vol == 98):
                         vol = 100
                     else:
-                        vol = vol + 14
+                        vol = vol + 10
                         player.mediaplayer.audio_set_volume(vol)
+                        player.volumeslider.setValue(player.mediaplayer.audio_get_volume())
                 except Exception as e:
                     print(e)
 
@@ -341,8 +342,9 @@ def haar1Loop(player, lis11, x,stop):
                     if (vol==0):
                         vol = 0
                     else:
-                        vol = vol - 14
+                        vol = vol - 10
                         player.mediaplayer.audio_set_volume(vol)
+                        player.volumeslider.setValue(player.mediaplayer.audio_get_volume())
                 except Exception as e:
                     print(e) 
             elif (x=='q'):
