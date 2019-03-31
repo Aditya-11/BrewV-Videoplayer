@@ -21,11 +21,11 @@ link: https://www.youtube.com/watch?v=bLmauUfYk4I&feature=youtu.be
 
 To run the player --> we have to create the execcutable first
 
-* cmake ..
+* <b>cmake ..</b>
 * or incase cmake unable to find Opencv 4.0 path then
-* cmake . -DOpenCV_DIR=<path_to_OpenCV>
-* make
-* python3 player2.py
+* <b>cmake . -DOpenCV_DIR=<path_to_OpenCV></b>
+* <b>make</b>
+  * <b>python3 player2.py</b>
 
 
 # Usage 
