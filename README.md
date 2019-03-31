@@ -1,7 +1,7 @@
 # BrewV-Videoplayer
 <p align="center">
-<a href="https://github.com/Aditya-11/BrewV-Videoplayer/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Apache2.0-yellow.svg" alt="License" /></a>
-<a href="https://github.com/Aditya-11/BrewV-Videoplayer/releases/latest"><img src="https://img.shields.io/badge/release-1e--9-Blue.svg" alt="Latest release" /></a>
+<a href="https://github.com/Aditya-11/BrewV-Videoplayer/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Apache2.0-Blue.svg" alt="License" /></a>
+<a href="https://github.com/Aditya-11/BrewV-Videoplayer/releases/latest"><img src="https://img.shields.io/badge/release-1e--9-green.svg" alt="Latest release" /></a>
 </p>
 
 ![alt text](https://i.imgur.com/07nvIKx.png)
