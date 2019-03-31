@@ -23,7 +23,7 @@ To run the player --> we have to create the execcutable first
 
 * cmake ..
 * or incase cmake unable to find Opencv 4.0 path then
-# cmake . -DOpenCV_DIR=<path_to_OpenCV>
+* cmake . -DOpenCV_DIR=<path_to_OpenCV>
 * make
 * python3 player2.py
 
