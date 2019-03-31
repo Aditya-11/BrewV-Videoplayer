@@ -26,7 +26,7 @@ alt="IMAGE ALT TEXT HERE" width="440" height="380" border="10" /></a>
 
 To run the player --> we have to create the execcutable first
 
-* <b>cmake ..</b>
+* <b>cmake .</b>
 * or incase cmake unable to find Opencv 4.0 path then
 * <b>cmake . -DOpenCV_DIR=<path_to_OpenCV></b>
 * <b>make</b>
