@@ -59,6 +59,6 @@ Gesture controls are :
 # ToDo 
 - [ ] Resolve the issue with buffers when seeking forward and backward.
 - [ ] Improving the Computer Vision part for making the cpu uasge less.
-- [x] The signal to volume slider at the time of gesture 3 and 4. 
-- [ ] Creating the setup file.
-- [ ] Include some better gestures to improve the user experience.
+<b>- [x]</b> The signal to volume slider at the time of gesture 3 and 4. 
+<b>- [ ]</b> Creating the setup file.
+<b>- [ ]</b> Include some better gestures to improve the user experience.
