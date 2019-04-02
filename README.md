@@ -1,7 +1,8 @@
 # BrewV-Videoplayer
 <p align="center">
-<a href="https://github.com/Aditya-11/BrewV-Videoplayer/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Apache2.0-Blue.svg" alt="License" /></a>
+<a href="https://github.com/Aditya-11/BrewV-Videoplayer/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Apache_2.0-Blue.svg" alt="License" /></a>
 <a href="https://github.com/Aditya-11/BrewV-Videoplayer/releases/latest"><img src="https://img.shields.io/badge/release-1e--9-green.svg" alt="Latest release" /></a>
+<a href="https://www.youtube.com/watch?v=bLmauUfYk4I&feature=youtu.be"><img src="https://img.shields.io/badge/youtube-red.svg" alt="demo" /></a>
 </p>
 
 ![alt text](https://i.imgur.com/07nvIKx.png)
@@ -59,6 +60,6 @@ Gesture controls are :
 # ToDo 
 - [ ] Resolve the issue with buffers when seeking forward and backward.
 - [ ] Improving the Computer Vision part for making the cpu uasge less.
-<b>- [x]</b> The signal to volume slider at the time of gesture 3 and 4. 
-<b>- [ ]</b> Creating the setup file.
-<b>- [ ]</b> Include some better gestures to improve the user experience.
+- [x] The signal to volume slider at the time of gesture 3 and 4. 
+- [ ] Creating the setup file.
+- [ ] Include some better gestures to improve the user experience.
