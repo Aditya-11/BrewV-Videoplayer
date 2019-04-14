@@ -3,7 +3,7 @@
 <a href="https://github.com/Aditya-11/BrewV-Videoplayer/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Apache_2.0-Blue.svg" alt="License" /></a>
 <a href="https://github.com/Aditya-11/BrewV-Videoplayer/releases/latest"><img src="https://img.shields.io/badge/release-1e--9-green.svg" alt="Latest release" /></a>
 <a href="https://www.youtube.com/watch?v=bLmauUfYk4I&feature=youtu.be"><img src="https://img.shields.io/badge/demo-youtube-red.svg" alt="demo" /></a>
- <a ><img src="https://img.shields.io/badge/next_version-releasing_soon-orange.svg" alt="demo" /></a>
+ <a href="https://github.com/Aditya-11/BrewV-Videoplayer/edit/master/README.md"><img src="https://img.shields.io/badge/next_version-releasing_soon-orange.svg" alt="demo" /></a>
 </p>
 
 ![alt text](https://i.imgur.com/07nvIKx.png)
