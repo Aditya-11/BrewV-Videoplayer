@@ -15,14 +15,6 @@ While choosing the gestures, the trade off was between the amount of energy the 
 
 # Has been tested in macOs and Linux
 
-# Usage demonstration 
-link: https://www.youtube.com/watch?v=bLmauUfYk4I&feature=youtu.be
-
-<a href="https://www.youtube.com/watch?v=bLmauUfYk4I&feature=youtu.be" target="_blank">
- <img src="http://img.youtube.com/vi/bLmauUfYk4I/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="440" height="380" border="10" /></a>
-
-
 # Installation process
 * Make sure Opencv 4.0 is installed
 * The software uses libvlc python bindings of libvlc so vlc player should be installed in your system
